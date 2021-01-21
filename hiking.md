@@ -32,7 +32,7 @@ phone, which is free and has pretty good offline maps data for hiking trails.
   <li> Glacier National Park (7-days, 2018): Jackson Glacier Overlook to Logan
   Pass. Really liked Sue Lake Overlook.
   <a href="https://www.google.com/maps/d/edit?mid=1U5fI__lMVhYS8sRjTeR3S5WK9H5Rmihz&usp=sharing">Google Maps Link</a></li>
-  <li> West Highland Way (5 days, 2017):
+  <li> West Highland Way (5 days, 2017): Really liked the pub/restaurant by the Bridge of Orchy.
   <a href="https://www.google.com/maps/d/edit?mid=1DBFvkkTzf9TG3xWIkMBsybCFhiw&usp=sharing">Google Maps Link</a></li>
   <li> Redwood National Park (3 days, 2017):
   <a href="https://www.google.com/maps/d/edit?mid=1IHzbcTnbv-S7kXgMbkG1Dcwjc-0&usp=sharing">Google Maps Link</a></li>
