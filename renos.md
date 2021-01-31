@@ -3,8 +3,10 @@ layout: page
 title: Home Renovation
 ---
 
-<h2> 19 Jan 2021 (Home Finishes) </h2>
+I bought a fixer-upper in Seattle, WA in Feb 2020 and have been working on
+fixing it up. I'll mention things I'm excited to have, and any learnings.
 
+<h2> 19 Jan 2021 (Home Finishes) </h2>
 The number of decisions that need to be made is simply staggering. Doors,
 windows, hardware, tiles, counter slab, sinks, faucets, showers, tubs, kitchen
 appliances, lighting, fireplace, siding style, paint colors... The list is
@@ -41,8 +43,7 @@ Here are a few things I changed my mind on along the way:
 </ul>
 
 <h2> 18 Jan 2021 (First Post) </h2>
-I bought a fixer-upper in Seattle, WA in Feb 2020 and have been working on
-fixing it up. The design/planning phase took about 6 months, and permitting
+The design/planning phase took about 6 months, and permitting
 took about 3 months. Here's a list of things I'm really happy to be
 incorporating in my home:
 
