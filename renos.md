@@ -29,6 +29,9 @@ things I wish I had
   <li>2-3 electrical conduits going from the breaker box to key areas of the home (e.g. crawl
   space), or from the LV room to closets in a couple different floors. </li>
   <li>More electrical conduits in the yard when doing landscape irrigation</li>
+  <li>Kitchen range hood servicability: The panel in-front of my kitchen range hood is closed, so
+  when the motor went bad I had to remove the entire range hood (including disconnecting it from the
+  vent pipe). If the cabinet panel were removable this would have been a super easy repair</li>
 </ul>
 
 <h2> 19 Jan 2021 (Home Finishes) </h2>
